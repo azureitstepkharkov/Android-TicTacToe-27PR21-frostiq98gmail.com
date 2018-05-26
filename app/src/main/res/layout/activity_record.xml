@@ -35,7 +35,7 @@
                 android:textSize="30sp" />
 
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/txCrossesAll"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -58,7 +58,7 @@
                 android:textSize="30sp" />
 
             <TextView
-                android:id="@+id/textView8"
+                android:id="@+id/txZeroAll"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -86,7 +86,7 @@
                 android:textSize="30sp" />
 
             <TextView
-                android:id="@+id/textView11"
+                android:id="@+id/txCrosses"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -109,7 +109,7 @@
                 android:textSize="30sp" />
 
             <TextView
-                android:id="@+id/textView13"
+                android:id="@+id/txZero"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
