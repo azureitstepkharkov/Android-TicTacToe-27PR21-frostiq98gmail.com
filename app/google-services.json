@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1023343604010:android:0e02a50a15b44a04",
         "android_client_info": {
-          "package_name": "com.example.frost.android27_yesipov_exam"
+          "package_name": "com.company.frost.android27_yesipov_exam"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "1023343604010-ptdc8vti4q9phfag5acgrb9e1ip0ghng.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.frost.android27_yesipov_exam",
+            "package_name": "com.company.frost.android27_yesipov_exam",
             "certificate_hash": "9af2fd221051b84416caf25448fc5ad1817e3587"
           }
         },
@@ -58,7 +58,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1023343604010:android:dee26e9187313a9d",
         "android_client_info": {
-          "package_name": "com.example.frost.tictactoe_android"
+          "package_name": "com.company.frost.tictactoe_android"
         }
       },
       "oauth_client": [
@@ -66,7 +66,7 @@
           "client_id": "1023343604010-rh6kd7v4i5jgik14eqricm0iju0hu17h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.frost.tictactoe_android",
+            "package_name": "com.company.frost.tictactoe_android",
             "certificate_hash": "9af2fd221051b84416caf25448fc5ad1817e3587"
           }
         },
